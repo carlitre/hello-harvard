@@ -1,2 +1,6 @@
 # hello-harvard
-Repository test 
+Repository - First Test!  
+
+This was a commit test. Just one! 
+
+Commit number two
